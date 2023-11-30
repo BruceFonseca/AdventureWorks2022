@@ -1,4 +1,6 @@
-# Análises de Clientes AdventureWorks 2022
+# Análise de clientes AdventureWorks 2022
+Utilizando o banco de dados AdventureWorks, empresa imaginária de fabricação e venda de bicicletas, iniciamos uma análise para entender a evolução dos clientes ao longo do tempo, principalmente entre 2011 e 2013. O objetivo inicial é fazer uma análise exploratória dos clientes que compraram os produtos da AdventureWorks, entendendo onde estão, quanto e o que compram, se ouve evolução na base de novos clientes e onde está o maior impacto desta evolução.
+
 <br><br>
 ## Estatística descritiva
 <img align="right" width="500"  src="https://github.com/BruceFonseca/AdventureWorks2022/blob/main/imagens/AdventureWorks%20-%20Clientes.png?raw=true">
@@ -34,7 +36,7 @@ Para organizar as medidas, criamos uma tabela contendo todas as medidas, sempre 
 <a href="https://github.com/BruceFonseca/AdventureWorks2022/blob/main/AdventureWorks%20-%20Novos%20Clientes%20Delta%202013.sql" target="_blank">Clique aqui</a> e acesse o arquivo no Github.
 
 
-<br><br><br><br><br><br><br><br>
+<br><br>
 
 ## Ferramentas e linguagens utilizadas
 <div style="display: inline_block">
