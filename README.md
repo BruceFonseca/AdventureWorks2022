@@ -1,4 +1,6 @@
-## AdventureWorks 2022 Análises
+# Análises de Clientes AdventureWorks 2022
+<br><br>
+## Estatística descritiva
 <img align="right" width="500"  src="https://github.com/BruceFonseca/AdventureWorks2022/blob/main/imagens/AdventureWorks%20-%20Clientes.png?raw=true">
 Projeto de dashboard devolvido com Power BI para identificar os principais fatores que impactam as vendas da empresa Contoso, permitindo análises dinâmicas e de fácil compartilhamento com os responsáveis pela tomada de decisão.
 Principais problemas relatados pelo requisitante: 
@@ -6,26 +8,30 @@ Principais problemas relatados pelo requisitante:
 - Segmentar dados  por filiais, categorias, produtos e períodos de tempo de uma forma simples, dinâmica e fácil de compartilhar.
 - Medir a performance comparando períodos de tempo (YoY, YTD, MoM, MTD).
 <br>
-<a href="https://github.com/BruceFonseca/AdventureWorks2022/tree/main#readme" target="_blank">Clique aqui</a> e acesse o repositório no Github.
+<a href="https://github.com/BruceFonseca/AdventureWorks2022/blob/main/AdventureWorks%20-%20Clientes.sql" target="_blank">Clique aqui</a> e acesse o arquivo no Github.
 
 
 <br><br>
 
-## Modelo e fonte de dados 
+## Análise de Novos Clientes
 <img align="left" width="500"  src="https://github.com/BruceFonseca/AdventureWorks2022/blob/main/imagens/AdventureWorks%20-%20Novos%20Clientes.png?raw=true">
 Após conversa com a equipe glogal de tecnogia da informação do cliente, fomos informados de um existente data warehouse, contendo todas informações necessárias. Evitando assim a necessidade de importar dados de outras fontes como planilhas, arquivos de textos ou raspagem de dados em sistemas web.
 
 Após conversa com a equipe glogal de tecnogia da informação do cliente, fomos informados de um existente data warehouse, contendo todas informações necessárias. Evitando assim a necessidade de importar dados de outras fontes como planilhas, arquivos de textos ou raspagem de dados em sistemas web.
+<br>
+<a href="https://github.com/BruceFonseca/AdventureWorks2022/blob/main/AdventureWorks%20-%20Novos%20Clientes.sql" target="_blank">Clique aqui</a> e acesse o arquivo no Github.
 
-<br><br><br><br>
 
-## Medidas
+<br><br>
+## Novos clientes YoY
 <img align="right" width="500" height="320" src="https://github.com/BruceFonseca/AdventureWorks2022/blob/main/imagens/AdventureWorks%20-%20Novos%20Clientes%20Delta.png?raw=true">
 Identificado a necessidade do cliente, as regras de negócio e a aplicação das mesmas no modelo de dados, iniciamos o desenvolvimento.
 Principais medidas desenvolvidas;
  - Custos, Receitas, Lucro, Entregas
  -  Medidas de inteligência temporal para comparação de performance e resultados entre períodos distintos ou cumulativos.
 Para organizar as medidas, criamos uma tabela contendo todas as medidas, sempre seguindo a padronização dos nomes.
+<br>
+<a href="https://github.com/BruceFonseca/AdventureWorks2022/blob/main/AdventureWorks%20-%20Novos%20Clientes%20Delta%202013.sql" target="_blank">Clique aqui</a> e acesse o arquivo no Github.
 
 
 <br><br><br><br><br><br><br><br>
