@@ -35,11 +35,11 @@ Analisando a variação de novos clientes entre períodos, é possível identifi
 <img align="right" width="500" height="320" src="https://github.com/BruceFonseca/AdventureWorks2022/blob/main/imagens/AdventureWorks%20-%20Novos%20Clientes%20Delta.png?raw=true">
 Analisando a variação de novos clientes, quando comparados com o mesmo período/mês do ano anterior, decidimos agrupar esta variação por região/país para identificar se houve crescimento. 
 Filtramos apenas o ano de 2013, pois foi o período com maiores taxas de crescimentos de novos clientes, o que nos permitiu concluir que: <br><br>
-- Canadá teve o maior crescimento percentual entre todos os países - aproximadamente 623%
-- Estados Unidos teve o maior crescimento cumulativo de clientes - aproximadamente 5050
+- Canadá teve o maior crescimento percentual entre todos os países - aproximadamente 623% <br>
+- Estados Unidos teve o maior crescimento cumulativo de clientes - aproximadamente 5050 <br>
 - Apenas os Estados Unidos tiveram um crescimento maior que todos países da Europa juntos, sendo a América do Norte o principal mercado de atuação da empresa.
-- Todos países europeus dobraram ou superaram sua base de novos clientes.
-- Austrália, apesar de não ter um crescimento comparável com Europa e América do Norte, aumentou sua base de novoc clientes em quase 50%, sendo um ótimo resultado em 2013.
+- Todos países europeus dobraram ou superaram sua base de novos clientes. <br>
+- Austrália, apesar de não ter um crescimento comparável com Europa e América do Norte, aumentou sua base de novoc clientes em quase 50%, sendo um ótimo resultado em 2013. <br>
 
 <br>
 <a href="https://github.com/BruceFonseca/AdventureWorks2022/blob/main/AdventureWorks%20-%20Novos%20Clientes%20Delta%202013.sql" target="_blank">Clique aqui</a> e acesse o script SQL no Github.
