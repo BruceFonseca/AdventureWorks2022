@@ -65,7 +65,7 @@ Com esta análise, chegamos as seguintes conclusões:<br>
 <br><br>
 <a href="https://app.powerbi.com/view?r=eyJrIjoiNWJjODBmOTAtYmNhMy00YjdmLTk5ZDMtMDc4NGI4NDY3YzJmIiwidCI6IjQxNGU0N2Q2LTVhNGUtNDkzZS05OWJkLTUzMTYwZjJhYWY2ZiJ9" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para a empresa AdventureWorks.
 <br>
-<a href="https://github.com/BruceFonseca/AdventureWorks2022/tree/main#readme" target="_blank">Clique aqui</a> e acesse o repositório no Github.
+<a href="[https://github.com/BruceFonseca/AdventureWorks2022/tree/main#readme](https://github.com/BruceFonseca/AdventureWorks2022/tree/main/POWERBI)" target="_blank">Clique aqui</a> e acesse o arquivo .pbix no Github.
 <br><br>
 
 ## Ferramentas e linguagens utilizadas
