@@ -19,7 +19,7 @@ Iniciamos o projeto entendendo cada objeto, tabela, campo, tipos de dados e rela
 <br><br>
 
 ## Análise de Novos Clientes
-<img align="left" width="500"  src="https://github.com/BruceFonseca/AdventureWorks2022/blob/main/SQL/imagens/AdventureWorks%20-%20Novos%20Clientes.png?raw=true">
+<img align="left" width="500"  src="https://github.com/BruceFonseca/AdventureWorks2022/blob/main/imagens/AdventureWorks%20-%20Novos%20Clientes.png?raw=true">
 Para identificar os novos clientes, primeiro foi necessário agrupar os clientes por ano e mês em uma CTE - Common Table Expression, porém é possível o mesmo resultado utilizando outras técnicas. Na CTE criada com o nome ClientesPrimeiraDataCompra, identificamos qual foi a primeira compra de cada, agrupando novos clientes por ano e mês.
 Com os dados agrupados, utilizamos a função de janela LAG para encontrar novos clientes no mesmo mês do ano anterior, permitindo os seguintes cálculos: <br><br>
 - Novos Clientes  <br>
@@ -32,7 +32,7 @@ Analisando a variação de novos clientes entre períodos, é possível identifi
 
 <br><br>
 ## Variação de novos clientes entre períodos
-<img align="right" width="500" height="320" src="https://github.com/BruceFonseca/AdventureWorks2022/blob/main/SQL/imagens/AdventureWorks%20-%20Novos%20Clientes%20Delta.png?raw=true">
+<img align="right" width="500" height="320" src="https://github.com/BruceFonseca/AdventureWorks2022/blob/main/imagens/AdventureWorks%20-%20Novos%20Clientes%20Delta.png?raw=true">
 Analisando a variação de novos clientes, quando comparados com o mesmo período/mês do ano anterior, decidimos agrupar esta variação por região/país para identificar se houve crescimento. 
 Filtramos apenas o ano de 2013, pois foi o período com maiores taxas de crescimentos de novos clientes, o que nos permitiu concluir que: <br><br>
 - Canadá teve o maior crescimento percentual entre todos os países - aproximadamente 623% <br>
@@ -55,7 +55,7 @@ Não existe uma ferramenta melhor que a outra, existe ferramentas adequadas as n
 <br><br>
 
 ## Dashboard Power BI
-<img align="right" width="500"  src="https://github.com/BruceFonseca/AdventureWorks2022/blob/main/POWERBI/imagens/Captura%20de%20tela%202023-12-03%20121514.png?raw=true">
+<img align="right" width="500"  src="https://github.com/BruceFonseca/AdventureWorks2022/blob/main/imagens/Captura%20de%20tela%202023-12-03%20121514.png?raw=true">
 Seguindo a idéia que SQL não é a melhor ferramenta para uma análise dinâmica e visual de informações, desenvolvi um dashboard focado na análise dos clientes novos e recorrentes da mesma base de dados AdventureWorks.
 Como o Power BI permite análises dinâmicas e visuais de forma simples, escrevendo menos código DAX e permitindo o usuário total interação com a ferramenta, fiz uma análise exploratória na quantidade e receira entre novos e recoreente.<br>
 Com esta análise, chegamos as seguintes conclusões:<br>
