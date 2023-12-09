@@ -26,7 +26,7 @@ Com os dados agrupados, utilizamos a função de janela LAG para encontrar novos
 - Novos Clientes Ano Anterior<br>
 - Variação de novos clientes entre períodos <br>
 <br>
-<a href="https://github.com/BruceFonseca/AdventureWorks2022/blob/main/AdventureWorks%20-%20Novos%20Clientes.sql" target="_blank">Clique aqui</a> e acesse o script SQL no Github.
+<a href="https://github.com/BruceFonseca/AdventureWorks2022/blob/main/SQL/AdventureWorks%20-%20Novos%20Clientes.sql" target="_blank">Clique aqui</a> e acesse o script SQL no Github.
 <br><br>
 Analisando a variação de novos clientes entre períodos, é possível identificar em 2013, um crescimento mensal muito acima da variação de 2012, sendo necessário aprofundar a análise e identificar de onde está vindo este grande crescimento de novos clientes.
 
